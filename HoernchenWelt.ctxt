@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HoernchenWelt()
+comment0.text=\n\ Constructor\ f\u00FCr\ Objekte\ der\ Klasse\ hoernchenwelt.\n\ \n
+comment1.params=
+comment1.target=void\ populate()
+comment1.text=\n\ Bev\u00F6lkert\ die\ Welt\ mit\ einem\ vorgegebenen\ Szenario\ von\n\ H\u00F6rnchen\ und\ Eicheln\n
+comment2.params=howMany
+comment2.target=void\ randomEicheln(int)
+comment2.text=\n\ Platziert\ eine\ Anzahl\ von\ Eicheln\ an\ beliebigen\ Positionen\n\ in\ der\ Welt.\ Die\ Anzahl\ der\ Eicheln\ kann\ angegeben\ werden.\n
+numComments=3
